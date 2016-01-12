@@ -1,1 +1,1 @@
-This is a directory to keep all the java practice programs.
+This is a directory to keep all the java practice programs.  It will contain all the tutorials we practiced in FICO.
